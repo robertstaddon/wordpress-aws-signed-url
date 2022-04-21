@@ -28,7 +28,7 @@ register_deactivation_hook(   __FILE__, array( 'AWSSignedURL', 'aws_signed_url_d
 class AWSSignedURL
 {
 
-  public function __construct() : void {
+  public function __construct() {
     require_once(plugin_dir_path(__FILE__) . '/aws-signed-url-options.php');
     new AWSSignedURL_Options();
 
