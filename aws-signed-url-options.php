@@ -1,4 +1,4 @@
-<?hh
+<?php
 
 class AWSSignedURL_Options
 {

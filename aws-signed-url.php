@@ -1,4 +1,4 @@
-<?hh
+<?php
 
 /*
 Plugin Name: AWS Signed URLs
