@@ -6,7 +6,7 @@
   Version: 1.0.1
   Author: Abundant Designs LLC
 
-  Use AWSSignedURL:get_signed_URL( $resource ) in your code to retrieve a signed AWS CloudFront URL, where $resource is the URL path
+  Use AWSSignedURL::get_signed_URL( $resource ) in your code to retrieve a signed AWS CloudFront URL, where $resource is the full URL
   to the resource for which you need a signed URL.
 
 */
