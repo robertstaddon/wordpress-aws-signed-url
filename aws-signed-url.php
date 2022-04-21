@@ -3,7 +3,7 @@
 /*
 Plugin Name: AWS Signed URLs
 Description: Generates signed urls for Cloudfront assets
-Version: 1.0.0
+Version: 1.0.1
 Author: Ocasta Studios
 
 Copyright 2016 Ocasta Studios Ltd
